@@ -9,5 +9,6 @@ The target struct represents a target for the player object.
 
 # graphics.c
 Mostly just playing around with tutorials, trying to find away to represent the objects in physics.c
-as circles and moving them around. 
+as circles and moving them around. The main challenge was trying to pass pObj_t positions to display() 
+so the pObj position would be reflected in the graphics. I decided to work on homework instead. 
 
